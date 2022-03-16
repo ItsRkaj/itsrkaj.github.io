@@ -677,7 +677,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 60px;
 }
 
-.single-services .lnr {
+.single-services i {
   font-size: 35px;
   color: #222;
   -webkit-transition: all 0.3s ease 0s;
@@ -703,6 +703,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-services:hover h4 {
+  color: #8490ff;
+}
+
+.single-services:hover i {
   color: #8490ff;
 }
 
